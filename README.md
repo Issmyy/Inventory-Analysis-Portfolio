@@ -1,7 +1,7 @@
 # Inventory-Analysis-Portfolio
 
-This dataset is sourced from a medium-sized company that produces electronic components covering multiple brands, Sales trend, purchase orders, and Invoicing records. '
-The main objective of this analysis is to identify opportunities to minimize stockouts, reduce excess inventory, optimize inventory turnover, calculate the optimal order quantity, etc. To deliver actionable insights, the analysis is structured into 4 key outputs: 
+This dataset comes from a medium-sized company that produces electronic components covering multiple brands, sales trends, purchase orders, and Invoicing records. '
+The main objective of this analysis is to identify opportunities to minimize stockouts, reduce excess inventory, optimize inventory turnover, and calculate the optimal order quantity. To deliver actionable insights, the analysis is structured into 4 key outputs: 
 1.	Reorder Point and Safety Stock
 Objective: Determine the exact replenishment timing and safety stock buffers to prevent stockouts and maintain optimal supply continuity.
 2.	ABC Analysis and Pareto Classification
